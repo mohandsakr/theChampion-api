@@ -7,7 +7,6 @@
   
 ### About: 
  It's a spring-boot  with spring-data-jpa application which defines tennis-table league .
-It contains these end points :
 
 ### Code Architecture: 
 
